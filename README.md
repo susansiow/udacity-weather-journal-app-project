@@ -4,7 +4,7 @@ This weather journal app project is submitted to [Udacity](https://www.udacity.c
 
 ## 1. Project Description
 
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.
+This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather Journal App.
 
 ## 2. Application Languages and Dependencies
 
